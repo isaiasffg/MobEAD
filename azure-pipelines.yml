@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: 'DESKTOP-9D5P4PA'
+  name: 'iffg-pipeline'
 
 # Command line
 # Run a command line script using Bash on Linux and macOS and cmd.exe on Windows
