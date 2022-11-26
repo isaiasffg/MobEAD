@@ -7,8 +7,8 @@ trigger:
 - main
 
 pool:
-  vmImage: 'windows-2019'
-container: mcr.microsoft.com/windows/servercore:ltsc2019
+  vmImage: 'windows-latest'
+
 # Command line
 # Run a command line script using Bash on Linux and macOS and cmd.exe on Windows
 
